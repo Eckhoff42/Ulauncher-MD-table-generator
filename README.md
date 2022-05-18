@@ -1,6 +1,7 @@
 # Markdown table generator
 Create an empty markdown table and copy it to your clipboard.
 
+![md_table_demo](https://user-images.githubusercontent.com/42439472/169059851-7476968e-f464-40df-95cf-dd66a47b9582.gif)
 
 This extension is listed on the Ulauncher extensions page.
 
