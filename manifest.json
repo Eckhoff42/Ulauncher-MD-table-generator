@@ -1,0 +1,19 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Markdown table creator",
+  "description": "Create an empty markdown table and save it to your clipboard",
+  "developer_name": "Magnus Wiik Eckhoff",
+  "icon": "images/icon.svg",
+  "options": {
+    "query_debounce": 0.05
+  },
+  "preferences": [
+    {
+      "id": "md",
+      "type": "keyword",
+      "name": "Markdown table creator",
+      "description": "Create an empty markdown table and save it to your clipboard",
+      "default_value": "md"
+    }
+  ]
+}
